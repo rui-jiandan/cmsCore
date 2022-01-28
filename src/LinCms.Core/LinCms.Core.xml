@@ -678,6 +678,61 @@
             也是demo。
             </summary>
         </member>
+        <member name="T:LinCms.Entities.ExcelDataConfig">
+            <summary>
+            excel数据源配置
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelDataConfig.FileId">
+            <summary>
+            文件Id
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelDataConfig.CellName">
+            <summary>
+            列名
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelDataConfig.CellType">
+            <summary>
+            列类型
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelDataConfig.DbColumnName">
+            <summary>
+            数据库名称
+            </summary>
+        </member>
+        <member name="T:LinCms.Entities.ExcelFile">
+            <summary>
+             excel数据源文件
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelFile.FileName">
+            <summary>
+            文件名
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelFile.FileExtension">
+            <summary>
+            扩展名
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelFile.IsCreate">
+            <summary>
+            是否创建
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelFile.FilePath">
+            <summary>
+            文件路径
+            </summary>
+        </member>
+        <member name="P:LinCms.Entities.ExcelFile.Size">
+            <summary>
+            大小 KB
+            </summary>
+        </member>
         <member name="P:LinCms.Entities.EntityDto`1.Id">
             <summary>
             主键Id
